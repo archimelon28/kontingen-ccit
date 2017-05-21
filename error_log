@@ -1,0 +1,4 @@
+[26-Jul-2016 01:54:01 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_STRING in /home/waygeoid/public_html/whatsaround/application/controllers/Frontend.php on line 24
+[26-Jul-2016 01:55:20 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/waygeoid/public_html/whatsaround/application/controllers/Frontend.php on line 23
+[26-Jul-2016 01:58:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_STRING in /home/waygeoid/public_html/whatsaround/application/models/Modelbackend.php on line 12
+[26-Jul-2016 02:00:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/waygeoid/public_html/whatsaround/application/controllers/Frontend.php on line 23
